@@ -34,5 +34,6 @@ public class GraphicsRunner extends JFrame
 	public static void main( String args[] )
 	{
 		GraphicsRunner run = new GraphicsRunner();
+                System.out.println("Hello Git");
 	}
 }
