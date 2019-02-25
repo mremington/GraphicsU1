@@ -36,6 +36,7 @@ public class GraphicsRunner extends JFrame
 		GraphicsRunner run = new GraphicsRunner();
                 System.out.println("Hello Git");
                 System.out.println("commit to git test");
+		System.out.println("commit to git test2");
                 
 	}
 }
